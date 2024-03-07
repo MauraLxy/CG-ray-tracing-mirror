@@ -1,5 +1,5 @@
 # CG-ray-tracing-mirror
-Ray tracing in mirror materials.
+Ray tracing in mirror materials. University project.
 
 <img width="406" alt="1706348248990" src="https://github.com/MauraLxy/CG-ray-tracing-mirror/assets/100116002/d2b082d1-dd30-402c-8a15-5188f3230648">
 
@@ -12,4 +12,3 @@ Tint the color:
 <img width="406" alt="1706348364822" src="https://github.com/MauraLxy/CG-ray-tracing-mirror/assets/100116002/8d57c8b1-1f13-483d-b9b7-4060f8cf4ed1">
 
 
-* This is a university assignment. *
